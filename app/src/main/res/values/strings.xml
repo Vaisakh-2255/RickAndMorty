@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rick&amp;Morty</string>
+
+
+    <string name="character_name">Name</string>
+    <string name="species">Species</string>
+    <string name="gender">Gender</string>
+    <string name="origin">Origin</string>
+    <string name="location">Location</string>
+    <string name="type">Type</string>
+    <string name="login">Login to Continue…</string>
+    <string name="login_btn">Login</string>
+    <string name="email_id">Email-ID</string>
+    <string name="password">Password</string>
+    <string name="enter_your_email_id">Enter your Email-ID</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="logout">Logout</string>
+</resources>
